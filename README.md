@@ -118,7 +118,7 @@ Ensure both .env files use DB_NAME=creditjambo.
 
 🧑‍💻 Default Admin Account
 Email	Password
-admin@creditjambo.com	admin123
+admin@creditjambo.com	Admin@123
 🧱 Folder Structure
 creditjambo_admin/
 ├── backend/
